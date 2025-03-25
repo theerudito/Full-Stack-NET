@@ -1,4 +1,4 @@
 /api/.gitignore
-/api/obj/
-/api/obj/*
+./api/obj/
+./api/bin/*
 publish

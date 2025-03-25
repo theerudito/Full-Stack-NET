@@ -1,1 +1,0 @@
-C:\Users\NOVA MILI\Desktop\Jorge\Full-Stack-NET\blazor-asembly\publish\web.config

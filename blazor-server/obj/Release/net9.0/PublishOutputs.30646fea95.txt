@@ -1,7 +1,0 @@
-C:\Users\NOVA MILI\Desktop\Jorge\Full-Stack-NET\blazor-server\publish\blazor-server.exe
-C:\Users\NOVA MILI\Desktop\Jorge\Full-Stack-NET\blazor-server\publish\appsettings.Development.json
-C:\Users\NOVA MILI\Desktop\Jorge\Full-Stack-NET\blazor-server\publish\appsettings.json
-C:\Users\NOVA MILI\Desktop\Jorge\Full-Stack-NET\blazor-server\publish\blazor-server.dll
-C:\Users\NOVA MILI\Desktop\Jorge\Full-Stack-NET\blazor-server\publish\blazor-server.deps.json
-C:\Users\NOVA MILI\Desktop\Jorge\Full-Stack-NET\blazor-server\publish\blazor-server.runtimeconfig.json
-C:\Users\NOVA MILI\Desktop\Jorge\Full-Stack-NET\blazor-server\publish\blazor-server.pdb

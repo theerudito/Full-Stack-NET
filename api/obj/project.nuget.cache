@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MMKE88ay+vw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NOVA MILI\\Desktop\\Jorge\\Full-Stack-NET\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NOVA MILI\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\NOVA MILI\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
